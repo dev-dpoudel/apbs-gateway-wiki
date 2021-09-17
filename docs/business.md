@@ -11,13 +11,13 @@ The Business Section enlists all the pre-registered business users. One key diff
 ![business list](images/business_list.png)
 
 ### Search Business Customers
-By default, business users will be listed wihtout any filters. User can filter such list by either Business Name or PAN number.
+By default, business users will be listed without any filters. User can filter such list by either Business Name or PAN number.
 
 * To Search simply type the value and press enter.
 * To reset the filter click on the clear icon in the search box or manually delete input text and press enter
 
 ### Verified and Unverified Users
-By default, any user initiating as a customer will be listed under unverified users. Only after successful verification process, the users will be listed as verified users and will be allowed to partake in APBS related functionalitites.
+By default, any user initiating as a customer will be listed under **unverified** users. Only after successful verification process, the users will be listed as **verified** users and will be allowed to partake in APBS related functionalitites.
 
 ### Create new Business Users
 Business User can enroll the APBS system via any one of the following measures:
@@ -34,7 +34,7 @@ Business User can enroll the APBS system via any one of the following measures:
 
 Click on + Button in the top section of the page. A modal will be displayed with all required fields for such operation.
 
-![business create](images/business_create.png))
+![business create](images/business_create.png)
 
 * Fill in the required details
 * At least on account must be filled
