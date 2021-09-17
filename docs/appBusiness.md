@@ -1,6 +1,6 @@
 # Application Business Users
 
-Business section with Application Details lists all the business users registered for APBS acces for current application. It shows basic details and status of each users.
+Business section with Application Details lists all the business users registered for APBS access for current application. It shows basic details and status of each users.
 
 ![app business](images/app_business.png)
 
