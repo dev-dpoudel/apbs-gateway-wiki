@@ -6,7 +6,7 @@ The Application Section enlists all the pre-registered Applications.
 ### Search Applications
 By default, Application will be listed wihtout any filters. User can filter such list by Application Name.
 
-* To Search simply type the value and press enter.
+* To Search, simply type the value and press enter.
 * To reset the filter click on the clear icon in the search box or manually delete input text and press enter
 
 ### Create new Application

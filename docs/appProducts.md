@@ -34,10 +34,10 @@ To edit or add new scheduled tariff, click on the + Button .
 
 ![tariff add](images/tariff_add.png)
 
-Note: Tariff Slba are mandatory i.e. at least one slab must be present
+Note: Tariff Slab are mandatory i.e. at least one slab must be present
 
 Note: The scheduled date must be equal or greather than today. If scheduled date is immediate, current tariff will be replaced. If scheduled date is greather than current time, scheduled tariff will be updated.
 
 Note: While adding multiple tariffs, it is mandatory that minimum amount of current slab must match maximum amount of previous slab. This is a feature in itself. Failure to meet the range requirement will result in error.
 
-Note: Usr can add a many tariff as required. However atleast 1 tariff slabs must always be present.
+Note: User can add a many tariff as required. However atleast 1 tariff slabs must always be present.

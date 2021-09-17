@@ -1,5 +1,5 @@
 # App Services
-The App Services section enlists all available services. Services previously assigned will be displayed as assigned, while services previously unassigned will be displayed as unassigned.
+The App Services section enlists all available services. Services previously assigned will be displayed as **assigned**, while services previously unassigned will be displayed as **unassigned**.
 
 ![app services](images/app_services.png)
 
@@ -13,7 +13,7 @@ To edit the status and add products to application services, simply click on the
 
 To enable/disable current selected app service, simply click on the status text in the top section of the Service page.
 
-![app service status](images/app_Service_status.png)
+![app service status](images/app_service_status.png)
 
 ### Add New Product Service
 
