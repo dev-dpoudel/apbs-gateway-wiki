@@ -18,4 +18,4 @@ It consits of Infomation Cards Stating the current status of users and Email and
 5. The third row of dashboard shows the total service requests processed by the gateway system. Total of 5 cards are available, each indicating a disinct service. Both the number of request and flow of total amount is available.
 
 ### Graphs Section
-6. The remaining section of the dashboard shows the graph relating to the total tariff amount, tarriff count, and consecutive trnasaction amount and transaction count for past thirty days. These graph are intended to access the load of system in past 30 days.
+6. The remaining section of the dashboard shows the graph relating to the total tariff amount, tarriff count, and consecutive transaction amount and transaction count for past thirty days. These graph are intended to access the load of system in past 30 days.
