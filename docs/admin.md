@@ -1,6 +1,6 @@
 # Admin
 
-Admin section lists all configured administrators. User with appropiate user right shall be able to add/ update or delte admin users.
+Admin section lists all configured administrators. User with appropiate user right shall be able to add/ update or delete admin users.
 
 ![admin list](images/admin_list.png)
 

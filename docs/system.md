@@ -1,12 +1,12 @@
 # Email and SMS Notes Information
 
-Email and SMS tabs respectively displays currently set user email and sms notes. User may edit such notes or simply browse all available notes and email.
+**Email** and **SMS** tabs respectively displays currently set user email and sms notes. User may edit such notes or simply browse all available notes and email.
 
 ![system info](images/system_info.png)
 
 ### Steps to Edit Information
 
-By default, message in sms and email section will be readonly. To update existing message simply
+By default, message in sms and email section will be readonly. To update existing message:
 
 * Click on Edit Button
 * User can now see a update modal
@@ -17,11 +17,11 @@ By default, message in sms and email section will be readonly. To update existin
 
 Note: User can only update message section and shouldn't be confused with permission issues or as a bug.
 
-Note: The variables in the curly braces , examples {nam} should not be edited. Upon edit of such variables, future email and notification through the system may fail.
+Note: The variables in the curly braces , examples {name} should not be edited. Upon edit of such variables, future email and notification through the system may fail.
 
 # Regulatory Policies
 
-The Regulatory Policies tabs consists of mandated transaction limits as prescribed by the user. These setings must confirm to NRB policies. Admin users are solely responsible to update such information.
+The Regulatory Policies tabs consists of mandated transaction limits as prescribed by the user. These settings must confirm to NRB policies. Admin users are solely responsible to update such information.
 
 ![regulation update](images/regulation_update.png)
 

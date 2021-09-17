@@ -1,8 +1,8 @@
 # Service Requests
 
-By deafult, all service requests from customers front are listed. The status and completion of such requests can be verified from the Success and Completed Column.
+By deafult, all service requests from customers front are listed. The **status** and **completion** of such requests can be verified from the Success and Completed Column.
 
-Note: Success referes that transaction was sucessfully executed. For a transaction to be complete, it have successfull run. One key difference between these fields is, a successful request will always be completed however, a completed requets may not have always been successful, i.e. transaction could have been rejected from core banking system itself.
+Note: **Success** referes that transaction was sucessfully executed. For a transaction to be **Complete**, it have successfull run. One key difference between these fields is, a successful request will always be completed however, a completed requets may not have always been successful, i.e. transaction could have been rejected from core banking system itself.
 
 
 
@@ -28,7 +28,7 @@ User can see transaction details related to each service details. In general, on
 
 ![transaction lists](images/transaction_lists.png)
 
-At first glance, list of transaction may be confusing, bu note that for each transaction:
+At first glance, list of transaction may be confusing, however note that for each transaction:
 * Amount is withdrawn from source account
 * Tariff Charge is Withdrawn
 * Amount is deposited on destination account

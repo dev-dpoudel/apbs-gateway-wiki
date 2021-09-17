@@ -12,7 +12,7 @@ Bank Information gives in general configuration for bank. User may access Bank I
 
 ### Steps to Edit Information
 
-By default, form field in Bank Information section will be disabled. User can click on the edit button on respective forms to be able to update existing settings.
+By default, form field in Bank Information section will be disabled. User can click on the **Edit** button on respective forms to be able to update existing settings.
 
 * Click on Edit Button
 * User can now see Save and Cancel Button
