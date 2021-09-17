@@ -40,7 +40,7 @@ To enable/ disable current business user, click on the status description under 
 
 ![business status](images/business_status.png)
 
-Upon successful completion, user status will change and user input notes will be displyed under user notes section.
+Upon successful completion, user status will change and user input notes will be displayed under user notes section.
 
 ### Reset Login Credential
 
@@ -48,5 +48,5 @@ To reset current business user password, click on the api outlined button under 
 
 ![business reset](images/business_reset.png)
 
-Upon successful completion, user password will change and user input notes will be displyed under user notes section. Respective user will get email with updated credentials.
+Upon successful completion, user password will change and user input notes will be displayed under user notes section. Respective user will get email with updated credentials.
 

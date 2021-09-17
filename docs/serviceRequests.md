@@ -18,7 +18,7 @@ To browse the service request Details simply click on the browse icon in the row
 
 ### CBS Response
 
-User can view the actual response forwared via the CBS. To view such details, click on the file icon undet the Request No. Upon successful click, user can see the response details. To hide the response details, user can again click on the same file button.
+User can view the actual response forwared via the CBS. To view such details, click on the **file icon** under the Request No. Upon successful click, user can see the response details. To hide the response details, user can again click on the same **file** button.
 
 ![transaction cbd details](images/transaction_cbs_details.png)
 

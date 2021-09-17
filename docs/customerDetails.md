@@ -40,7 +40,7 @@ To enable/ disable current customers user, click on the status description under
 
 ![customer status](images/customers_status.png)
 
-Upon successful completion, user status will change and user input notes will be displyed under user notes section.
+Upon successful completion, user status will change and user input notes will be displayed under user notes section.
 
 ### Reset Login Credential
 
@@ -48,5 +48,5 @@ To reset current customers user password, click on the api outlined button under
 
 ![customer reset](images/customers_reset.png)
 
-Upon successful completion, user password will change and user input notes will be displyed under user notes section. Respective user will get email with updated credentials.
+Upon successful completion, user password will change and user input notes will be displayed under user notes section. Respective user will get email with updated credentials.
 
