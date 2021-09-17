@@ -10,7 +10,7 @@ By default, Customers users will be listed wihtout any filters. User can filter 
 * To reset the filter click on the clear icon in the search box or manually delete input text and press enter
 
 ### Verified and Unverified Users
-By default, any user initiating as a customer will be listed under unverified users. Only after successful verification process, the users will be listed as verified users and will be allowed to partake in APBS related functionalitites.
+By default, any user initiating as a customer will be listed under **unverified** users. Only after successful verification process, the users will be listed as **verified** users and will be allowed to partake in APBS related functionalitites.
 
 ### Create new Customers Users
 Customers User can enroll the APBS system via any one of the following measures:
@@ -21,13 +21,13 @@ Customers User can enroll the APBS system via any one of the following measures:
 
 * Request with Digital Partners
 
-    User can request for registration theough digital solutions, after verification users shall be able to utilize APBS services. In such flow, username will be auto generated from bank while password will be set by user him/herself.
+    User can request for registration through digital solutions, after verification users shall be able to utilize APBS services. In such flow, username will be auto generated from bank while password will be set by user him/herself.
 
 ## Registration via Gateway Application
 
 Click on + Button in the top section of the page. A modal will be displayed with all required fields for such operation.
 
-![customer create](images/customers_create.png)
+![customer create](images/customers_add.png)
 
 * Fill in the required details
 * At least on account must be filled
